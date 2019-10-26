@@ -22,6 +22,8 @@ int main()
     float real, real2;
     char s;
 
+    // Technically variable 'a' holds the reference to memory location where 
+    // integer '23' is stored
     a = 23;
     b = 4;
 
